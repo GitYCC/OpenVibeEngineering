@@ -1,6 +1,6 @@
 # Open Vibe Engineering
 
-> Bringing Vibe Coding into the Realm of Serious Engineering 🚀
+> Bringing Vibe Coding into the Realm of Production-grade Engineering 🚀
 
 **OpenVibeEngineering** is an open-source initiative aimed at transforming the freeform, creative nature of *vibe coding* into structured, sustainable, and production-grade engineering practices. It’s a community-driven effort to consolidate experience, workflows, design patterns, and tools that empower developers to build intuitively **without sacrificing engineering rigor**.
 
@@ -25,10 +25,8 @@ Vibe coding is fun, fast, and expressive. But...
 
 ## 🧠 What’s Inside?
 
-- `vibe-patterns/` – Common development patterns distilled from real-world projects  
-- `scaffold-examples/` – Minimal, composable templates for getting started  
-- `workflow-guides/` – From prototype to production: opinionated paths  
-- `engineering-principles.md` – Shared beliefs and practices for Vibe Engineers  
+- `vibe-guides/` – Common development patterns for vibe engineering  
+- `experience/[role]` – Grounded insights by and for each role
 
 ---
 
