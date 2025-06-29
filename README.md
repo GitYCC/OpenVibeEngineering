@@ -2,6 +2,8 @@
 
 > Bringing Vibe Coding into the Realm of Production-grade Engineering 🚀
 
+⚠️ **Work in Progress**: This repository is currently under active development. The patterns, guides, and principles provided here are experimental and may be incorrect or misleading. They should not be considered reliable.
+
 **OpenVibeEngineering** is an open-source initiative aimed at transforming the freeform, creative nature of *vibe coding* into structured, sustainable, and production-grade engineering practices. It’s a community-driven effort to consolidate experience, workflows, design patterns, and tools that empower developers to build intuitively **without sacrificing engineering rigor**.
 
 ---
